@@ -1,2 +1,2 @@
 # Frontend Framework 
-Building a Frontend Framework from scrach
+Building a Frontend Framework from scratch
